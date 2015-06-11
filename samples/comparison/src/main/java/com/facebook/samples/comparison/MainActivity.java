@@ -46,7 +46,7 @@ import java.util.Locale;
 
 public class MainActivity extends ActionBarActivity {
 
-  private static final String TAG = "FrescoSample";
+  private static final String TAG = "FrescoSample1";
 
   // These need to be in sync with {@link R.array.image_loaders}
   public static final int FRESCO_INDEX = 1;
