@@ -5,12 +5,12 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 21
-    buildToolsVersion '21.1.2'
+    compileSdkVersion 22
+    buildToolsVersion '22.0.1'
     defaultConfig {
         applicationId "com.facebook.samples.round"
         minSdkVersion 9
-        targetSdkVersion 21
+        targetSdkVersion 22
         versionCode 1
         versionName "${VERSION_NAME}"
 
